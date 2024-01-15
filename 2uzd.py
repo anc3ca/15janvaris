@@ -1,0 +1,1 @@
+# 2.	Izveidot Python programmu, kas nolasītu un izdrukātu tikai otrās kolonnas datus no CSV faila. (3 punkti)
