@@ -10,9 +10,9 @@ def read_and_print(file_name, file_format):
             print(f"Faila {file_name}.{file_format} saturs:")
             print(content)
     except FileNotFoundError:
-        print(f"Error: File '{file_name}.{file_format}' not found.")
+        print(f"Fails'{file_name}.{file_format}' nav atrasts")
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"Notikusui kļūda: {e}")
 
 def main():
 
